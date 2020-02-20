@@ -1,9 +1,13 @@
 {
-	"name": "ngx-planet-common",
-	"version": "0.0.1",
+	"name": "planet-common",
+	"version": "0.0.4",
 	"description": "",
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hellojayjay/planet-common.git"
+	},
 	"scripts": {
 		"build": "tsc",
 		"prepare": "npm run clear && npm run build",
@@ -16,7 +20,7 @@
 		"dist/"
 	],
 	"author": "jayjay",
-	"license": "UNLICENSED",
+	"license": "MIT",
 	"devDependencies": {
 		"@types/jest": "^24.0.23",
 		"@types/lodash": "^4.14.149",
