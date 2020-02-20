@@ -1,3 +1,3 @@
-# ngx-planet-common
+# planet-common
 
-ngx-planet-common
+planet-common
