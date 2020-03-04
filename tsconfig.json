@@ -11,7 +11,7 @@
 		]
 	},
 	"include": [
-		"src"
+		"src", "tests/app-root-context.spec.ts"
 	],
 	"exclude": [
 		"node_modules",
